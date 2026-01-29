@@ -1,0 +1,13 @@
+
+=== Fri Jan 23 10:51:24 2026
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.modules.adaptiveperformance@1.0.0
+  com.unity.modules.vectorgraphics@1.0.0
+The following packages were updated:
+  com.unity.collab-proxy from version 2.10.0 to 2.10.2
+  com.unity.multiplayer.center from version 1.0.0 to 1.0.1
+  com.unity.render-pipelines.universal from version 17.0.4 to 17.3.0
